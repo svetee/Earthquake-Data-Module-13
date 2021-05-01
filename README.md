@@ -1,1 +1,1 @@
-# Earthquake-Data-Module-13
+# Mapping_Earthquakes
